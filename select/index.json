@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "サンサンたいそう",
+  "base_artist": "ドリーミング",
+  "createdAt": "2026-03-16T16:32:18.934663Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サンサンたいそう",
+      "artist": "ドリーミング",
+      "has_synced": true,
+      "path": "select/01_サンサンたいそう_ドリーミング.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サンサンたいそう",
+      "artist": "ドリーミング",
+      "has_synced": false,
+      "path": "select/pl_01_サンサンたいそう_ドリーミング.txt"
+    }
+  ]
+}
